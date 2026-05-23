@@ -1,6 +1,17 @@
-<h1 align="center">Hi 👋, Beeram Navya </h1>
+<h1 align="center">Beeram Navya </h1>
 
 <h3 align="center">B.Tech Data Science Student</h3>
+
+---
+
+## 🙋‍♀️ About Me
+
+- 🎓 I am a B.Tech student specializing in Data Science
+- 🌱 Currently learning Python, Java, SQL, HTML & CSS
+- 💡 Interested in Artificial Intelligence and Machine Learning
+- 💻 Passionate about Web Development and Data Analytics
+- 🚀 Exploring new technologies and building projects
+- ⚡ Always eager to learn and improve my coding skills
 
 ---
 
@@ -37,4 +48,4 @@
 
 
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
